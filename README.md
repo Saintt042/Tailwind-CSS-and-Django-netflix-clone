@@ -1,1 +1,0 @@
-# Tailwind-CSS-and-Django-netflix-clone
